@@ -1,0 +1,3 @@
+Pillow==11.1.0
+matplotlib
+tkinter
